@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_section_section_one_columns",
+  "info": {
+    "displayName": "section_one_column",
+    "icon": "apps",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "maxLength": 255,
+      "required": true,
+      "minLength": 3
+    },
+    "description": {
+      "type": "richtext"
+    },
+    "metadata": {
+      "type": "component",
+      "repeatable": false,
+      "component": "section.section-metadata"
+    }
+  }
+}

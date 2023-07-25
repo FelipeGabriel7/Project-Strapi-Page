@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_section_text_grids",
+  "info": {
+    "displayName": "Text_grid",
+    "icon": "collapse"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "description": {
+      "type": "text"
+    }
+  }
+}
